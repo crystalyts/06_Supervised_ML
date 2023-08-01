@@ -23,7 +23,7 @@ This project utilizes the dataset from Kaggle containing a historical register o
 - `3_House_price_prediction_model`
 
 
-## Result 
+## Results
 Creation of a small web-app on Streamlit
 ![image](https://github.com/crystalyts/06_Supervised_ML/assets/61910422/45735a3d-3fcc-414b-8bf5-453cf40ee2b8)
 
