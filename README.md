@@ -20,7 +20,7 @@ This project utilizes the dataset from Kaggle containing a historical register o
 ## Code
 - `1_House_price_prediction_EDA`
 - `2_House_price_prediction_feature_engineering`
-- `3_House_price_prediction_model
+- `3_House_price_prediction_model`
 
 
 ## Result 
