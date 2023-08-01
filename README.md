@@ -21,6 +21,5 @@ Creation of a small web-app on Streamlit
 
 ---
 
-### Dataset from Kaggle
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+### Dataset from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
