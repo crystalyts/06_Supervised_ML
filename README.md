@@ -15,6 +15,12 @@ This project utilizes the dataset from Kaggle containing a historical register o
 4. Model Building
 5. Model Deployment
 
+## Code
+- `1_House_price_prediction_EDA`
+- `2_House_price_prediction_feature_engineering`
+- `3_House_price_prediction_model
+
+
 ## Result 
 Creation of a small web-app on Streamlit
 ![image](https://github.com/crystalyts/06_Supervised_ML/assets/61910422/45735a3d-3fcc-414b-8bf5-453cf40ee2b8)
